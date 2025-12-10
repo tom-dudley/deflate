@@ -1,0 +1,12 @@
+github.com/tom-dudley/huffman v0.0.0-20251210125704-01340b541e6e h1:Xxtt94gfen84K8mDtQnJPb6Ue+AmzstsDb9L3czcPso=
+github.com/tom-dudley/huffman v0.0.0-20251210125704-01340b541e6e/go.mod h1:TQJgZeV3UX504qVDKKYZ9nMHiNfrR4tl1EQezFB8cQo=
+github.com/tom-dudley/huffman v0.0.0-20251210130138-10a3b5dc3dfa h1:NsVyMH7JILvUifOV20oqPRzRAlbK6m707xet1MSIC9M=
+github.com/tom-dudley/huffman v0.0.0-20251210130138-10a3b5dc3dfa/go.mod h1:TQJgZeV3UX504qVDKKYZ9nMHiNfrR4tl1EQezFB8cQo=
+github.com/tom-dudley/huffman v0.0.0-20251210131040-5125cf492b7b h1:60Fib9ikcR0A1lV8yIIlui2FnY6Z1fRS0BcwmiXy2i4=
+github.com/tom-dudley/huffman v0.0.0-20251210131040-5125cf492b7b/go.mod h1:TQJgZeV3UX504qVDKKYZ9nMHiNfrR4tl1EQezFB8cQo=
+github.com/tom-dudley/huffman v0.0.0-20251210132311-59eb65264d11 h1:TpeTxacNayNz9jOmCbPkvqUhK4IW3LcnXEEeC3jaHU8=
+github.com/tom-dudley/huffman v0.0.0-20251210132311-59eb65264d11/go.mod h1:TQJgZeV3UX504qVDKKYZ9nMHiNfrR4tl1EQezFB8cQo=
+github.com/tom-dudley/huffman v0.0.0-20251210134736-8c7301dfd984 h1:44KffhpUS+KoRPURtBZZlkONRcidyLY8HPAEVWt+7G4=
+github.com/tom-dudley/huffman v0.0.0-20251210134736-8c7301dfd984/go.mod h1:TQJgZeV3UX504qVDKKYZ9nMHiNfrR4tl1EQezFB8cQo=
+github.com/tom-dudley/lz77 v0.0.0-20251210124258-624a69c7ff78 h1:0u/6cCehhjgPdIMc2RqaHvJywuL848NTJNlk/dadG7Y=
+github.com/tom-dudley/lz77 v0.0.0-20251210124258-624a69c7ff78/go.mod h1:m/xiUSmUmaSBzz3wulHj/HxOycBzTCpWGFu/lfpNWEU=
